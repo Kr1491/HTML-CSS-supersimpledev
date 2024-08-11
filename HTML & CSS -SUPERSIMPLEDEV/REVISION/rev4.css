@@ -1,0 +1,30 @@
+p{
+  font-family: Nunito Sans;
+  margin: 0px;
+}
+
+.h1{
+  font-weight: 800;
+}
+
+.h2{
+  color: grey;
+  font-size: 14px;
+
+}
+
+.h3{
+  width: 250px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+button{
+  background-color: green;
+  color: white;
+  border: none;
+  margin-top: 7px;
+  padding: 5px;
+  border-radius: 4px;
+}

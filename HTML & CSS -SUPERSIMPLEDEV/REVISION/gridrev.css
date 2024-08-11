@@ -1,0 +1,20 @@
+
+.container{
+  display: grid;
+  grid-template-columns: 100px 100px;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+
+.div1{
+  height: 100px;
+  text-align: center;
+}
+
+.div2{
+  background-color: lightblue;
+  height: 100px;
+  text-align: center;
+}
+

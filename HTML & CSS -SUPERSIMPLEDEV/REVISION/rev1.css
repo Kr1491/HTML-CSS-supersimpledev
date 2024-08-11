@@ -1,0 +1,41 @@
+#b1{
+  background-color: red;
+  color: white;
+  border: none;
+  border-style: solid;
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 50px;
+  transition: background-color 0.2s;
+
+}
+
+#b1:hover{
+  background-color: rgba(255, 0, 0, 0.527);
+  
+}
+
+
+#b2{
+  background-color: white;
+  color: rgb(0, 97, 183);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(0, 97, 183);
+  padding: 6px;
+  padding-left: 8px;
+  padding-right: 8px;
+  transition: background-color 0.2s,
+              color 0.2s;
+
+}
+
+
+#b2:hover{
+  background-color: rgb(0, 97, 183);
+  color: white;
+
+}
+
+

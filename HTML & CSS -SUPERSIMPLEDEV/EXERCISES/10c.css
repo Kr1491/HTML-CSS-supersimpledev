@@ -1,0 +1,44 @@
+p{
+  font-family: Roboto, Arial;
+  margin: 0px;
+}
+
+.c1{
+  display: inline-block;
+  width: 200px;
+  height: 120px;
+}
+
+.thumbnail{
+  width: 100%;
+}
+
+.c2{
+  display: inline-block;
+  vertical-align: top;
+  width: 250px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  margin-left: 5px;
+  padding-top: 2px;
+}
+
+.main{
+  height: 120px;
+}
+
+
+.channel-name,
+.video-stats{
+  color: grey;
+  font-size: 12px;
+
+}
+
+
+.video-info{
+  margin-top: 14px;
+  line-height: 18px;
+  margin-bottom: 30px;
+}

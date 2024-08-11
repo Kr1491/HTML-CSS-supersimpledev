@@ -1,0 +1,15 @@
+p{
+  text-align: center;
+  font-family: montserrat;
+  margin: 0px;
+}
+
+.t1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.u1{
+  text-decoration: underline;
+}

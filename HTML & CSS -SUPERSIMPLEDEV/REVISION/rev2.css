@@ -1,0 +1,23 @@
+#tag1{
+  transition: 0.2s;
+  color: rgb(0, 123, 255)
+}
+
+#tag1:hover{
+  color: orange;
+}
+
+
+.t1{
+  margin: 0px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+.t2{
+  color: green;
+  font-weight: bold;
+  margin: 0px;
+  
+}
